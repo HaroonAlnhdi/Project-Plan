@@ -11,7 +11,7 @@ Quiz games are interactive games designed to test and enhance a player's knowled
 
 1. The user should be able to see a landing page when I arrive at the website to know I'm in the right place.
 
-2. he user must be able to see the "start game" button .
+2. the user must be able to see the "start game" button .
 
 3. The user should be able to see one question at a time with multiple answer options.
 
@@ -49,13 +49,17 @@ Quiz games are interactive games designed to test and enhance a player's knowled
 // Add an event listener to the select Answer.
 // Add an event listener to the next question button.
 // Add an event listener to the restart quiz button.
-// // Add an event listener to the DarkMode button.
+// Add an event listener to the DarkMode button.
 ```
 
 
 3. **Invoke the init function used to initialize all state variables.**
 
 ```
+ initialize timer.
+ initialize score.
+ initialize questions.
+
 1. Wait for the user to click on an Sart game option.
 // Display the Questions container
 
@@ -65,7 +69,7 @@ Quiz games are interactive games designed to test and enhance a player's knowled
  // display the score.
  // display the number of question.
  // display the messeges.
- 
+
 
 
 3. Wait for the user to click on an answer option.
