@@ -60,6 +60,9 @@ Quiz games are interactive games designed to test and enhance a player's knowled
  initialize score.
  initialize questions.
 
+```
+4. **Functions.**
+```
 1. Wait for the user to click on an Sart game option.
 // Display the Questions container
 
@@ -97,7 +100,7 @@ Quiz games are interactive games designed to test and enhance a player's knowled
     // Display the restart quiz button
 ```
 
-4. **Wait for the user to click the "Play Again" button.**
+5. **Wait for the user to click the "Play Again" button.**
 
 ```
 // Reset current question index to 0
